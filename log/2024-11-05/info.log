@@ -1,8 +1,0 @@
-[github.com/fastdevops/coreapi]2024-11-05 15:47:53.191	[34minfo[0m	C:/Users/itadm/快速开发底座/server/initialize/gorm.go:76	register table success
-[github.com/fastdevops/coreapi]2024-11-05 15:47:53.195	[34minfo[0m	C:/Users/itadm/快速开发底座/server/initialize/router.go:60	register swagger handler
-[github.com/fastdevops/coreapi]2024-11-05 15:47:53.219	[34minfo[0m	C:/Users/itadm/快速开发底座/server/initialize/router.go:108	router register success
-[github.com/fastdevops/coreapi]2024-11-05 15:47:53.219	[34minfo[0m	C:/Users/itadm/快速开发底座/server/core/server.go:38	server run success on 	{"address": ":8888"}
-[github.com/fastdevops/coreapi]2024-11-05 16:16:42.930	[34minfo[0m	C:/Users/itadm/fastdevops/coreapi/initialize/gorm.go:76	register table success
-[github.com/fastdevops/coreapi]2024-11-05 16:16:42.933	[34minfo[0m	C:/Users/itadm/fastdevops/coreapi/initialize/router.go:60	register swagger handler
-[github.com/fastdevops/coreapi]2024-11-05 16:16:42.968	[34minfo[0m	C:/Users/itadm/fastdevops/coreapi/initialize/router.go:108	router register success
-[github.com/fastdevops/coreapi]2024-11-05 16:16:42.969	[34minfo[0m	C:/Users/itadm/fastdevops/coreapi/core/server.go:39	server run success on 	{"address": ":8888"}
