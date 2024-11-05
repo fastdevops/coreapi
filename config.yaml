@@ -10,7 +10,7 @@ autocode:
     root: C:\Users\itadm\快速开发底座
     server: server
     module: github.com/fastdevops/coreapi
-    ai-path: "https://ai.gin-vue-admin.com/{FUNC}/13826194409/098b0f43-1bac-4955-8fbd-6805b9de36fa"
+    ai-path: "https://ai.gin-vue-admin.com/{FUNC}/123"
 aws-s3:
     bucket: xxxxx-10005608
     region: ap-shanghai
