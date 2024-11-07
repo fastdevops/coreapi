@@ -1,0 +1,5 @@
+[github.com/fastdevops/coreapi]2024-11-07 16:16:57.406	[34minfo[0m	C:/Users/itadm/fastdevops/coreapi/initialize/router.go:60	register swagger handler
+[github.com/fastdevops/coreapi]2024-11-07 16:16:57.420	[34minfo[0m	C:/Users/itadm/fastdevops/coreapi/initialize/plugin.go:10	项目暂未初始化，无法安装插件，初始化后重启项目即可完成插件安装
+[github.com/fastdevops/coreapi]2024-11-07 16:16:57.422	[34minfo[0m	C:/Users/itadm/fastdevops/coreapi/initialize/router.go:108	router register success
+[github.com/fastdevops/coreapi]2024-11-07 16:16:57.423	[34minfo[0m	C:/Users/itadm/fastdevops/coreapi/core/server.go:39	server run success on 	{"address": ":8888"}
+[github.com/fastdevops/coreapi]2024-11-07 16:17:11.295	[34minfo[0m	C:/Users/itadm/fastdevops/coreapi/api/v1/system/sys_initdb.go:57	前往初始化数据库
